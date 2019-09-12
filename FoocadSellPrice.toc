@@ -1,0 +1,7 @@
+## Interface: 11302
+## Version: 1.0.0
+## Title: Foocad's Sell Price
+## Notes: Adds "Sell Price" to item tool tip
+## Author: Foocad
+
+FoocadSellPrice.lua
